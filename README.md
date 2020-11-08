@@ -1,6 +1,11 @@
 
 
 <h1 align= "center"> ⭐ Hello World!⭐</h1>
+
+<p align="center">
+    <img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/><img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/>
+</p>
+
 <h3 align= "center">Welcome to my Github!</h3>
 
 <p align= "center">
@@ -17,7 +22,7 @@
 <p align= "center">
   📫 <strong>How to reach me:</strong> 
   
-  <a target="_blank" href="https://www.linkedin.com/in/kflores20/">
+  <a href="https://www.linkedin.com/in/kflores20/">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;" alt="LinkedIn" />
   </a>
   
@@ -30,8 +35,10 @@
   </a>
 </p>
   
-  
-  
+
+<p align="center">
+    <img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/><img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/>
+</p>
   
   
 
