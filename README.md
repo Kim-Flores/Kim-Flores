@@ -1,7 +1,50 @@
-### Hi there 👋
+
+
+<h1 align= "center"> ⭐ Hello World!⭐</h1>
+<h3 align= "center">Welcome to my Github!</h3>
+
+<p align= "center">
+    <img src="pinkbunny.gif" width="200"/>
+</p>
+
+<p align="center">
+  Boston based Full Stack Software Engineer. Excited to grow! 🌱
+</p>
+<p align= "center">
+  🌈 <strong>Pronouns:</strong> She/Her/Hers
+</p>
+
+<p align= "center">
+  📫 <strong>How to reach me:</strong> 
+  
+  <a target="_blank" href="https://www.linkedin.com/in/kflores20/">
+    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;" alt="LinkedIn" />
+  </a>
+  
+  <a target="_blank" href="https://twitter.com/kimi_code">
+    <img src="https://lh3.googleusercontent.com/proxy/tGxT1iO3rzgDnyFJPVIbKDvQRm0l7cvcGX5muWH7r0jiodexufHg3UhJNM2Rw3rCZbF-1W02m38wK4mqz0AgyD9_gfzHg1myvQxWDxwLKUCL09PU0GCUGF0Yd6SSFTuIzQ" width="30px;" alt="Twitter" />
+  </a>
+  
+  <a target="_blank" href="https://www.kimcodes.dev/">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/001/198/092/original/world.png" width="30px;" alt=""/>
+  </a>
+</p>
+  
+  
+  
+  
+  
+
+
+
+
 
 <!--
 **Kim-Flores/Kim-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a target="_blank" href="https://twitter.com/kimi_code">Twitter</a> | <a target="_blank"       href="https://www.linkedin.com/in/kflores20/">LinkedIn</a> | <a target="_blank" href="https://www.kimcodes.dev/">Portfolio</a>
+</p>
+
 
 Here are some ideas to get you started:
 
