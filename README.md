@@ -3,7 +3,7 @@
 <h1 align= "center"> ⭐ Hello World!⭐</h1>
 
 <p align="center">
-    <img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/><img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp" width="200"/>
+    <img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp"><img src="https://i.giphy.com/media/L4OCNH5NRVzt1GdUrl/200w.webp">
 </p>
 
 <h3 align= "center">Welcome to my Github!</h3>
