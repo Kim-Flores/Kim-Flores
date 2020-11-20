@@ -28,7 +28,7 @@
   </a>
   
   <a target="_blank" href="https://twitter.com/kimi_code">
-    <img src="https://lh3.googleusercontent.com/proxy/tGxT1iO3rzgDnyFJPVIbKDvQRm0l7cvcGX5muWH7r0jiodexufHg3UhJNM2Rw3rCZbF-1W02m38wK4mqz0AgyD9_gfzHg1myvQxWDxwLKUCL09PU0GCUGF0Yd6SSFTuIzQ" width="30px;" alt="Twitter" />
+    <img src="https://lh3.googleusercontent.com/proxy/4Ap82aQ0EOsee4CJruQ6yXMepVkfj0XJKZJP4LdxtaojGhex-Sb-OVBrQBh_o5zQkU8GmTMp3cx3QihKIqURmt2SM97ggE5SNu2276u3vdP4a_ea75Olan9Rd_iKslAqNw" width="30px;" alt="Twitter" />
   </a>
   
   <a target="_blank" href="https://www.kimcodes.dev/">
