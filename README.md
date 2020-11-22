@@ -24,15 +24,15 @@
   📫 <strong>How to reach me:</strong> 
   
   <a target="_blank" href="https://www.linkedin.com/in/kflores20/">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;" alt="LinkedIn" />
+    <img src="imgs/linkedin-icon.png" width="30px;" alt="LinkedIn" />
   </a>
   
   <a target="_blank" href="https://twitter.com/kimi_code">
-    <img src="https://lh3.googleusercontent.com/proxy/4Ap82aQ0EOsee4CJruQ6yXMepVkfj0XJKZJP4LdxtaojGhex-Sb-OVBrQBh_o5zQkU8GmTMp3cx3QihKIqURmt2SM97ggE5SNu2276u3vdP4a_ea75Olan9Rd_iKslAqNw" width="30px;" alt="Twitter" />
+    <img src="imgs/twitter-icon.png" width="30px;" alt="Twitter" />
   </a>
   
   <a target="_blank" href="https://www.kimcodes.dev/">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/001/198/092/original/world.png" width="30px;" alt=""/>
+    <img src="imgs/world-icon.png" width="30px;" alt=""/>
   </a>
 </p>
   
